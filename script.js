@@ -14,7 +14,7 @@ let gameInterval;
 let enemyInterval;
 let isGameRunning = false;
 let enemySpeed = 6;
-const maxEnemySpeed = 15;
+const maxEnemySpeed = 13;
 let enemySpawnRate = 1500;
 const minSpawnRate = 400;
 const spawnRateStep = 100;
